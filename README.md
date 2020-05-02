@@ -7,7 +7,8 @@ Arduino Pro Micro: 5.00
 2x Rotary Encoder Knobs: 1.00  
 7x Keycaps: (free for me, you can just use 1u keycaps)   
 Plywood: free   
-M2 Standoffs: basically nothing  
+M2 Standoffs: basically nothing (I have a kit that has a bunch of them)
+Wires: free
 ### Total: CA$9.80 (US$6.90)  
 
 ## Setbacks
@@ -29,10 +30,10 @@ Wires
 7x Gateron Brown Mechanical Keyswitches  
 7x 2.25u Keycaps (3D print them if needed)  
 1x Arduino Pro Micro Clone
-7x 1N4148 Diodes
------ Items not included in price
-Soldering Iron with Solder  
-Laser Cutter  
+7x 1N4148 Diodes  
+----- Items not included in price  
+Soldering Iron with Solder    
+Laser Cutter (can use a x-acto knife if you don't have one)    
 
 ## Software
 QMK Toolbox  
