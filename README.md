@@ -10,6 +10,13 @@ Plywood: free
 M2 Standoffs: basically nothing  
 ### Total: CA$9.80 (US$6.90)  
 
+## Setbacks
+* Original laser cutting outline assumed using stablizers, but the wood was too thick so its still in there   
+* EC11 has resolution of 20ppr, compared to the usual 600ppr from the original controllers  
+* It uses normal keyboard keycaps, compared to Sanwas with a larger area to press.  
+* Knobs are not as large, 3D printing the normal size can solve this (See knob_cover.stl)  
+
+
 ## Materials
 2x pieces of plywood  
 7x M2 PCB standoffs  
