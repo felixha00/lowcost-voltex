@@ -45,7 +45,8 @@ QMK CLI
 # Build Log
 ### Wiring (looks bad):
 ![sound voltex wiring](https://cdn.discordapp.com/attachments/482050809463439391/705934792167784518/IMG_20200501_063012.jpg)
-Follow a tutorial on how to wire a keyboard properly. The two pieces were sandwiched by countersinking screws and using the M2 standoffs and screws to assemble them togther. The pieces of wood was laser cut using a Trotec 3000. 
+If you'd like to build this, follow a tutorial on how to wire and flash a keyboard with QMK. The keymap is included in the repo.  
+The two pieces were sandwiched by countersinking screws and using the M2 standoffs and screws to assemble them togther. The pieces of wood was laser cut using a Trotec 3000. 
 
 ### Removing Detents: 
 ![removing detents from encoder](https://cdn.discordapp.com/attachments/482050809463439391/705935024838541353/IMG_20200402_183047.jpg)
