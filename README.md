@@ -1,13 +1,14 @@
 # lowcost-voltex
-The cheapest hand-wired Sound Voltex controller ever
-
+![sound voltex controller](https://imgur.com/nk6UyFn)
 ## Total Price (in CAD):  
 2x Rotary Encoders: 1.80  
 Arduino Pro Micro: 5.00  
 7x Gateron Brown Switches: ~2.00  
 2x Rotary Encoder Knobs: 1.00  
-7x Keycaps: (free for me, can make smaller) 
-
+7x Keycaps: (free for me, you can just use 1u keycaps)   
+Plywood: free   
+M2 Standoffs: basically nothing  
+### Total: CA$9.80 (US$6.90)  
 
 ## Materials
 2x pieces of plywood  
