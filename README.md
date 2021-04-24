@@ -7,8 +7,8 @@
 | 2x EC11 Rotary Encoders (Detents Removed)  | 1.80  |
 | 1x Knockoff Arduino Pro Micro  | 5.00 |
 | 7x Gateron Brown Switches | ~2.00 |
-| 2x Rotary Encoder Knobs (or 3D print if you have 3D Printer)  | 5.00 |
-| 7x Cherry Keycaps (Any can work, suggest at least 2.0u)  | 5.00 |
+| 2x Rotary Encoder Knobs (or 3D print if you have 3D Printer)  | 1.00 |
+| 7x Cherry Keycaps (Any can work, suggest at least 2.0u)  | Free |
 | 2x Plywood Scraps, Wires | Free |
 | M2 Standoffs with M2 Screws | Basically Free | 
 ||
