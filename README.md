@@ -48,10 +48,10 @@ QMK CLI
 
 # Build Log
 ### Wiring:
-![sound voltex wiring](https://cdn.discordapp.com/attachments/482050809463439391/705934792167784518/IMG_20200501_063012.jpg)
+![sound voltex wiring](assets/IMG_20200501_063012.jpg)
 If you'd like to build this, follow a tutorial on how to wire and flash a keyboard with QMK. The keymap is included in the repo.  
 The two pieces were sandwiched by countersinking screws and using the M2 standoffs and screws to assemble them togther. The pieces of wood was laser cut using a Trotec 3000. 
 
 ### Removing Detents: 
-![removing detents from encoder](https://cdn.discordapp.com/attachments/482050809463439391/705935024838541353/IMG_20200402_183047.jpg)
+![removing detents from encoder](assets/IMG_20200402_183047.jpg)
 To turn the detented rotation into a smooth optical-encoder like movement, take apart the encoder as shown in the image and remove the small metal ball that causes the detents. Reassemble and check to make sure the encoder still works
